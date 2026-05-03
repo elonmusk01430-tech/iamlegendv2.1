@@ -7,12 +7,12 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Your session ID (obtain from the pairing site)",
+      "description": "Stanytz378/iamlegendv2_v8yQ6QXC",
       "required": true,
       "value": ""
     },
     "OWNER_NUMBER": {
-      "description": "Your WhatsApp number with country code (no +, e.g. 255618558502)",
+      "description": "923270675143",
       "required": true,
       "value": "255787069580"
     },
